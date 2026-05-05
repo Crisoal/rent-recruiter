@@ -31,6 +31,8 @@ dist-ssr
 .kiro/
 .bolt/
 
+IMPLEMENTATION_STATUS.md
+
 # OS files
 .DS_Store
 Thumbs.db
