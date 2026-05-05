@@ -31,6 +31,8 @@ dist-ssr
 .kiro/
 .bolt/
 
+.supabase/
+
 IMPLEMENTATION_STATUS.md
 
 # OS files
